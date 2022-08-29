@@ -1,0 +1,12 @@
+@import url('http://fonts.cdnfonts.com/css/sega-logo-font');
+
+body{
+    background: rgb(0,99,115);
+    background: linear-gradient(90deg, rgba(0,99,115,1) 0%, rgba(9,121,120,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'SEGA LOGO FONT', sans-serif;
+    color: #000;
+}
